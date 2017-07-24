@@ -1,0 +1,33 @@
+{
+  "name": "vinci-nxt",
+  "version": "0.0.1",
+  "description": "Plataforma para gestion y administración de guardas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasz1000/vinci-nxt.git"
+  },
+  "keywords": [
+    "transito",
+    "gestion",
+    "administracion",
+    "node",
+    "webapp",
+    "javascript"
+  ],
+  "author": "Nobit.sas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebasz1000/vinci-nxt/issues"
+  },
+  "homepage": "https://github.com/sebasz1000/vinci-nxt#readme",
+  "dependencies": {
+    "next": "^2.4.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
