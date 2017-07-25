@@ -1,8 +1,9 @@
 import Header from './Header'
 
 
-export default () => (
+export default (props) => (
     <div className='container'>
         <Header />
+        { props.children }
     </div>
 )
